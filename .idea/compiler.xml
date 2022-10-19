@@ -9,5 +9,8 @@
         <module name="qaacademy_selenium_turma6_jorge" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qaacademy_selenium_turma6_jorge" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
